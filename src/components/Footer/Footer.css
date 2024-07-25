@@ -1,0 +1,11 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+@media only screen and (min-width: 280px) and (max-width: 600px) {
+  .footer-container {
+    font-size: 13px;
+  }
+}
